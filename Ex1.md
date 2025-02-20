@@ -14,7 +14,7 @@ Use the present perfect form of the verb in brackets + the correct technical ter
 - **use** [juːz]
 - **update** [ʌpˈdeɪt]
 
-1. I have installed the program on my computer.
+1. I have installed the program on my computer
 2. She has written a new Python script.
 3. We have used the new version of the software.
 4. They have updated the website today.
@@ -91,14 +91,14 @@ Match the Linux command/term to its correct description.
 Write sentences using the present perfect tense + these terms to describe something you’ve done.
 
 **Terms:**
-- **open a terminal**
-- **install a program**
-- **update software**
-- **write a script**
+- **open a terminal** He has opened a terminal to view the contents of the folder.
+- **install a program** I have installed a program on hcomputer.
+- **update software** She has update software on behalf of the administrator.
+- **write a script** They have written a script in JavaScript.
 
 **Example Answer:**
 
-1. I have opened a terminal to check the logs.
+1. I have opened a terminal to check the logs. 1. 
 2. She has installed a program on her computer.
 3. We have updated the software to the latest version.
 4. They have written a script to automate the process.
