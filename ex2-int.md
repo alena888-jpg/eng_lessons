@@ -5,11 +5,11 @@
 
 ### **Exercise 1: Fill in the blanks**  
 *Use the present perfect form of the verb in brackets + the correct technical term.*  
-1. I __________ (not/push) the changes to the remote __________ yet.  
-2. She __________ (debug) the __________, but the error still appears.  
-3. They __________ (write) a new __________ to optimize the code.  
-4. The sysadmin __________ (update) the __________ to fix security issues.  
-5. We __________ (not/test) the __________ on the Linux server.  
+1. I haven't pushed the changes to the remote repository yet.  
+2. She has debugged the program code, but the error still appears.  
+3. They have written a new algorithm to optimize the code.  
+4. The sysadmin has updated the antivirus program to fix security issues.  
+5. We haven't tested the web application on the Linux server.  
 
 **Example Answer**:  
 1. *haven’t pushed / repository*  
@@ -19,11 +19,11 @@
 ### **Exercise 2: Complete the sentences**  
 *Choose the correct term from the box and use the present perfect tense.*  
 *(terminate, compile, fork, configure, clone)*  
-1. The developers __________ the repository from GitHub.  
-2. I __________ the kernel for better performance.  
-3. He __________ the process because it was using too much memory.  
-4. They __________ the script, but it still has warnings.  
-5. Maria __________ a child process using the `fork()` system call.  
+1. The developers have cloned the repository from GitHub.  
+2. I have configured the kernel for better performance.  
+3. He has terminated the process because it was using too much memory.  
+4. They have compiled the script, but it still has warnings.  
+5. Maria has forked a child process using the `fork()` system call.  
 
 ---
 
@@ -72,8 +72,8 @@
 2. has debugged / algorithm  
 3. have written / script  
 4. has updated / kernel  
-5. haven’t tested / application  
-
+5. haven’t tested / application
+  
 **Exercise 2**:  
 1. have cloned  
 2. have configured  
